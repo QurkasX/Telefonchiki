@@ -1,0 +1,58 @@
+body{
+    background-color: gray;
+}
+
+nav{
+    padding: 10px 25px;
+    text-align: center;
+    
+}
+nav a{
+    color:black;
+    background-color: white;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid rgba(57, 37, 38, 0.075);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 1px;
+    
+}
+
+
+header{
+    background-color: black;
+    padding: 21px;
+    display: flex;
+    align-items: center;
+    
+}
+header img{
+    height: 100px;
+}
+main h1{
+    font-size: 34px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    gap:20px;
+    
+    }
+    
+.items{
+    display:flex;
+
+}
+
+
+.itemses {
+    width: 300px;
+    height:200px;
+}
+    
+
